@@ -1,0 +1,24 @@
+{
+  "name": "wx-promise-http",
+  "version": "1.0.0",
+  "description": "wx.request通过promise封装",
+  "main": "http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/innocces/wx-promise-request.git"
+  },
+  "keywords": [
+    "wx",
+    "wxrequest",
+    "promise"
+  ],
+  "author": "innocces",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innocces/wx-promise-request/issues"
+  },
+  "homepage": "https://github.com/innocces/wx-promise-request#readme"
+}
